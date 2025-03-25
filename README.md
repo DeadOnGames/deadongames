@@ -1,9 +1,7 @@
 # About:
-💻 I'm a game developer based in Northern Ireland.
-
-👩‍💻 I am a full-time Unity Developer working on sports games.
-
-🎮 I also create my own projects in my spare time.
+💻 I'm a game developer based in Northern Ireland<br/>
+👩‍💻 I am a full-time Unity Developer working on sports games<br/>
+🎮 I also create my own projects in my spare time<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deadongames) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DeadOnGames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeadOnGameDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deadongamesonline@gmail.com) 
